@@ -13,7 +13,7 @@ Você pode baixar o dataset <a href="[https://www.kaggle.com/datasets/nelgiriyew
 2. Qual a correlação entre Churn e a Idade dos Clientes? 
 <img src="https://i.ibb.co/hM0PgWV/churn-3.png">
 
-Quais foram as métricas obtidas no modelo de Decision Tree? 
+Quais foram as métricas obtidas no modelo de Decision Tree? <br>
 <img src="https://i.ibb.co/THHj5YP/carbon-5.png">
 
 Há muito mais perguntas no projeto. Para simplificar, coloquei apenas duas aqui no ReadMe. Então, para um melhor entendimento dos dados, sugiro que leia o projeto completo.
