@@ -1,5 +1,3 @@
-# Churn_Decision_Tree
-
 # Predição de Churn via Árvore de Decisão 
 
 🔍 Sobre o projeto <br> 
