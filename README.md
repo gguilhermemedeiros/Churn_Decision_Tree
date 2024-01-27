@@ -1,9 +1,9 @@
 # Predição de Churn via Árvore de Decisão 
 
 🔍 Sobre o projeto <br> 
-Após análise exploratória dos dados, criaremos um modelo via Decision Tree visando prever os clientes que dariam Churn.
+Churn é uma métrica usada por diversas empresas para obtenção da taxa de cancelamento dos seus clientes em um determinado período de tempo. O Churn Rate pode ser um importante indicativo de que algo pode estar errado, sendo uma tarefa essencial encontrar a causa raiz do problema.Após análise exploratória dos dados, criaremos um modelo via Decision Tree visando prever os clientes que dariam Churn.
 
-Você pode baixar o dataset <a href="[https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023/data](https://www.kaggle.com/datasets/cybersimar08/binary-classification-of-bank-churn-synthetic-data)" target="_blank">clicando aqui</a>.
+Você pode baixar o dataset <a href="https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023/data](https://www.kaggle.com/datasets/cybersimar08/binary-classification-of-bank-churn-synthetic-data" target="_blank">clicando aqui</a>.
 
 🗺️ Análise descritiva <br>
 
